@@ -18,9 +18,9 @@ public class EjercicioTelefonia {
         System.out.println("Tienes 80 años o más");
         personamayor = teclado.nextBoolean();
 
-        if (quierescontratar == true && telefono == true && internet50mb == true && internet == true && escliente = false && personamayor == false){
+     //   if (quierescontratar == true && telefono == true && internet50mb == true && internet == true && escliente = false && personamayor == false){
 
         }
 
     }
-}
+//}
